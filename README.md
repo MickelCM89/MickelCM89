@@ -1,4 +1,4 @@
-# Mikel Olive 👋
+# Miguel Campos 👋
 
 **Data Analyst** en formation — Master Data Science & IA (LIORA, rentrée 2026)  
 📍 Paris, France | 🇲🇽 Mexicain | 🇫🇷 Français courant (B2+)
