@@ -1,5 +1,4 @@
 # Miguel Campos 👋
-
 **Data Analyst** en formation — Master Data Science & IA (LIORA, rentrée 2026)  
 📍 Paris, France | 🇲🇽 Mexicain | 🇫🇷 Français courant (B2+)
 
@@ -34,16 +33,19 @@
 
 ---
 
-## 🚀 Projet phare
+## 🚀 Projets phares
 
 ### 🎬 [CinéCreuse](https://cinecreuse.streamlit.app)
 Application de recommandation de films pour la Creuse (France), développée en équipe.  
 Moteur TF-IDF avec pondération régionale, enrichissement via API TMDB, interface Streamlit déployée en production.
 
+### ⚡ [Électricité Intelligente](https://github.com/MickelCM89/electricite-intelligente)
+Dashboard d'analyse du mix énergétique français — "Quand et où consommer en France ?"  
+Pipeline PostgreSQL (modèle en étoile) · Dashboard Streamlit style DeLorean · Prédiction de prix via Random Forest.
+
 ---
 
 ## 🎓 Formation
-
 - **Bac+3 Data Analyst** — Wild Code School (2025–2026)
 - **Master Data Science & IA** — LIORA / DataScientest (rentrée 2026)
 - **Ingénieur Électricien** — IPN, Mexique (2014–2019)
@@ -51,13 +53,12 @@ Moteur TF-IDF avec pondération régionale, enrichissement via API TMDB, interfa
 ---
 
 ## 💼 Expérience
-
 - **Maître Distillateur & Responsable de Production** — Baccae (2021–2025)  
   Analyse et prévision de stocks, optimisation des processus, gestion Supply Chain
 
 ---
 
 ## 📫 Me contacter
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-campos-martinez)
 [![Streamlit](https://img.shields.io/badge/CinéCreuse-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://cinecreuse.streamlit.app)
+[![GitHub](https://img.shields.io/badge/Électricité_Intelligente-181717?style=flat&logo=github&logoColor=white)](https://github.com/MickelCM89/electricite-intelligente)
