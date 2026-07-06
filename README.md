@@ -39,7 +39,7 @@
 Application de recommandation de films pour la Creuse (France), développée en équipe.  
 Moteur TF-IDF avec pondération régionale, enrichissement via API TMDB, interface Streamlit déployée en production.
 
-### ⚡ [Électricité Intelligente](https://github.com/MickelCM89/electricite-intelligente)
+### ⚡ [Électricité Intelligente](https://electricite-intelligente.streamlit.app)
 Dashboard d'analyse du mix énergétique français — "Quand et où consommer en France ?"  
 Pipeline PostgreSQL (modèle en étoile) · Dashboard Streamlit style DeLorean · Prédiction de prix via Random Forest.
 
@@ -61,4 +61,4 @@ Pipeline PostgreSQL (modèle en étoile) · Dashboard Streamlit style DeLorean �
 ## 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-campos-martinez)
 [![Streamlit](https://img.shields.io/badge/CinéCreuse-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://cinecreuse.streamlit.app)
-[![GitHub](https://img.shields.io/badge/Électricité_Intelligente-181717?style=flat&logo=github&logoColor=white)](https://github.com/MickelCM89/electricite-intelligente)
+[![Streamlit](https://img.shields.io/badge/Électricité_Intelligente-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://electricite-intelligente.streamlit.app)
